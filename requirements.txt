@@ -1,0 +1,8 @@
+nltk==3.9.1
+pandas==2.2.3
+Pillow==11.1.0
+scikit_learn==1.6.1
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.67.1
+transformers==4.31.0
